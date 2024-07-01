@@ -1,0 +1,32 @@
+h1{
+    background: rgb(0, 110, 255);
+    color: rgb(243, 196, 255);
+
+}
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(127, 255, 195);
+}
+.menu{
+    list-style: none;
+    padding: 10px;
+    width: 60%;
+    display: flex;
+    max-width: 1000px;
+    margin: auto;
+    justify-content: center;
+}
+.menu li a{
+    text-decoration: none;
+    color: rgb(255, 0, 0);
+    padding: 30px;
+    display: inline-block;
+}
+.menu li {
+    display: inline-block;
+    text-align: center;
+
+}
+.menu li a:hover{
+    background: rgb(118, 95, 160);
+}

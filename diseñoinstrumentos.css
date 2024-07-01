@@ -1,0 +1,19 @@
+h1{
+    background: rgb(43, 101, 226);
+    color: rgb(97, 202, 167);
+}
+
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(161, 142, 56);
+}
+.back-btn{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgb(33, 48, 97);
+    color: rgb(110, 71, 101);
+    border-radius: 5px;
+    margin-top: 10px;
+    text-align: center;
+    font-family: monospace;
+}
